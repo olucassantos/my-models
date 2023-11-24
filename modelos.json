@@ -4,7 +4,7 @@
         "nome": "Maria Sulidade",
         "idade": 59,
         "sexo": "Feminino",
-        "nacionalidade": "Mexicana",
+        "nacionalidade": "Brasileira",
         "altura": 1.65,
         "peso": 85
     },
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "nome": "Pedro de Souza",
+        "nome": "Pedro Marcelinho",
         "idade": 25,
         "sexo": "Masculino",
         "nacionalidade": "Brasileiro",

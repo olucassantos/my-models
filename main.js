@@ -1,3 +1,4 @@
+// Importa os dados do arquivo modelos.json
 import dados from "./modelos.json" assert { type: "json" };
 
 // Para cada item do array, vai criar um elemento dentro da div de modelos
@@ -10,7 +11,7 @@ dados.forEach((modelo) => {
     div.classList.add("modelo");
 
     // Adicionar a classe masc ou fem na div
-    if (modelo.genero == "masculino") {
+    if (modelo.sexo == "Masculino") {
         div.classList.add("masc");
     } else {
         div.classList.add("femi");
@@ -26,5 +27,5 @@ dados.forEach((modelo) => {
     `;
 
     // Adiciona a div na div de modelos
-    document.querySelector(".modelos").append(div);
+    document.getElementById('modelos').append(div);
 });
