@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "nome": "Maria Sulidade",
+        "idade": 59,
+        "sexo": "Feminino",
+        "nacionalidade": "Mexicana",
+        "altura": 1.65,
+        "peso": 85
+    },
+    {
+        "id": 2,
+        "nome": "João da Silva",
+        "idade": 32,
+        "sexo": "Masculino",
+        "nacionalidade": "Brasileiro",
+        "altura": 1.75,
+        "peso": 80
+    },
+    {
+        "id": 3,
+        "nome": "Pedro de Souza",
+        "idade": 25,
+        "sexo": "Masculino",
+        "nacionalidade": "Brasileiro",
+        "altura": 1.80,
+        "peso": 90
+    },
+    {
+        "id": 4,
+        "nome": "Ana Maria",
+        "idade": 18,
+        "sexo": "Feminino",
+        "nacionalidade": "Brasileira",
+        "altura": 1.60,
+        "peso": 60
+    },
+    {
+        "id": 5,
+        "nome": "José da Silva",
+        "idade": 40,
+        "sexo": "Masculino",
+        "nacionalidade": "Brasileiro",
+        "altura": 1.70,
+        "peso": 70
+    },
+    {
+        "id": 6,
+        "nome": "Maria da Silva",
+        "idade": 35,
+        "sexo": "Feminino",
+        "nacionalidade": "Brasileira",
+        "altura": 1.65,
+        "peso": 65
+    },
+    {
+        "id": 7,
+        "nome": "João de Souza",
+        "idade": 30,
+        "sexo": "Masculino",
+        "nacionalidade": "Brasileiro",
+        "altura": 1.75,
+        "peso": 75
+    },
+    {
+        "id": 8,
+        "nome": "Pedro da Silva",
+        "idade": 20,
+        "sexo": "Masculino",
+        "nacionalidade": "Brasileiro",
+        "altura": 1.80,
+        "peso": 80
+    },
+    {
+        "id": 9,
+        "nome": "Ana de Souza",
+        "idade": 15,
+        "sexo": "Feminino",
+        "nacionalidade": "Brasileira",
+        "altura": 1.60,
+        "peso": 60
+    }
+]
